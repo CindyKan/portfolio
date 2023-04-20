@@ -1,10 +1,15 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+## Welcome to Cindy Kan's portfolio!
 
+Lanlancat, Capybara or Guru?
+Only kids make a choice, I want them ALL!
+
+### Email
+lanlancat@example.com
 
 #### Here are some example pages:
 
@@ -12,5 +17,4 @@ title: Home
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
 
-[dummy text](http://fillerama.io/)
-[dummy text](http://fillerama.io/](https://apps.apple.com/us/app/lan-lan-cat-17-en/id1499579679)
+[dummy text](https://apps.apple.com/us/app/lan-lan-cat-17-en/id1499579679)
