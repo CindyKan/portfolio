@@ -28,7 +28,7 @@ twitter_username: lanlancat
 github_username:  CindyKan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
